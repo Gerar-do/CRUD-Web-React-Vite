@@ -1,0 +1,100 @@
+/* HEADER*/
+#conteiner{
+    background: black;
+}
+.logo{
+    width: 100px;
+    float: left;
+    margin-left: 10px;
+    margin-top: -5px;
+}
+.nombre{
+    float: left;
+    font-size: 25px;
+    margin-top: 30px;
+    color: cadetblue;
+}
+.nav{
+    float: right;
+    line-height: 100px;
+    overflow: hidden;
+    margin-right: 100px;
+    font-size: 18px;
+
+}
+.opciones{
+    display: inline-block;
+    text-decoration:none ;
+    line-height: normal;
+    padding: 0px 50px;
+    font-weight: bold;
+    color: cadetblue;
+}
+/* FONDO IMAGEN*/
+.cover-container{
+    height: 100vh;
+    width: 100%;
+    object-fit: contain;
+    box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.6);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.video{
+    object-fit: cover;
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+    z-index: -1;
+}
+
+.cover-container > h1{
+    color: white;
+    font-size: 100px;
+}
+
+.cover-container > p {
+    margin-top: 8px;
+    color: white;
+    font-size: 32px;
+}
+/* INFORMACION*/
+.titulo{
+    margin-bottom: 30px;
+}
+.info{
+    width: 100%;
+    max-width: 900px;
+    margin: auto;
+    padding: 100px;
+    text-align: justify;
+}
+.citasimg{
+    width: 350px;
+    float: left;
+    max-height: 250px;
+    margin-right: 20px;
+}
+.duenosimg{
+    width: 350px;
+    float: right;
+    max-height: 250px;
+    margin-left: 20px;
+}
+.mascotasimg{
+    width: 350px;
+    float: left;
+    max-height: 250px;
+    margin-right: 20px;
+}
+.info3{
+    width: 100%;
+    max-width: 900px;
+    margin: auto;
+    padding: 100px;
+    padding-bottom:300px;
+    text-align: justify;
+
+}

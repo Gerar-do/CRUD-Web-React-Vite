@@ -1,0 +1,85 @@
+
+#home{
+
+    height: 100vh;
+    min-height: 500px;
+    background: url(../Img/883519.jpg);
+    position: center;
+}
+
+#home .inner-width{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    
+}
+
+#home .content{
+   color: darkcyan;
+    width: 100%;
+}
+
+#home .content h1{
+
+    font-size: 90px;
+    margin-bottom: 60px;
+
+}
+
+#home .content h1::before{
+  
+    content: "Confianza";
+    animation: textanim 10s linear infinite;
+}
+
+
+
+
+
+.sm a{
+
+    color: white;
+    font-size: 22px;
+    margin: 0 10px;
+    transition: .2s linear;
+
+}
+
+.sm a:hover{
+
+    color: #48dbfb;
+}
+
+h3{
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+}
+
+#home .buttons{
+
+    margin-top: 60px;
+
+}
+
+#home .buttons a {
+
+ display: inline-block;
+ margin: 10px 30px;
+ color:darkcyan;
+ font-size: 20px;
+ font-weight: 500;
+ border: 1px solid darkcyan;
+ padding: 12px 28px;
+ border-radius: 7px;
+ transition: .2s linear;
+
+}
+
+#home .buttons a :hover{
+
+    background-color: #48dbfb;
+    color: white;
+}
+

@@ -1,0 +1,17 @@
+.Nav-Bar{
+    background: #fcfafa;
+    height: 125px;
+}
+.title{
+    text-align:center
+}
+.Back{
+    position: relative;
+    transition-duration: 0.4s;
+    background-color: rgb(255, 255, 255); /* Green */
+    color: white;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    border-radius: 50px;
+    top: 25px;
+    left: 25px;
+}

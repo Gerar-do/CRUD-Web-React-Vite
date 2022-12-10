@@ -1,0 +1,81 @@
+.Nav-Bara{
+    background: rgb(0, 0, 0);
+    height: 125px;
+}
+.btn{
+    position: relative;
+    top: 25px;
+}
+/*Modulo Mascota*/
+.IDdueño{
+    top: 50px;
+    position: relative;
+    width: 400px;
+    left: 200px;
+}
+.IDmascota{
+    position: relative;
+    width: 400px;
+    top: 50px;
+    left: 200px;
+}
+.Tipo{
+    position: relative;
+    width: 400px;
+    top: 50px;
+    left: 200px;
+}
+.Nombre{
+    width: 400px;
+    position:relative;
+    left: 55%;
+    top: -212px;
+}
+/*Modulo Dueños*/
+.NombreDueño1{
+    width: 400px;
+    position:relative;
+    left: 55%;
+    top: 100px;
+}
+.Direccion{
+    position: relative;
+    width: 400px;
+    top: 15px;
+    left: 200px;
+}
+.NumTelefoico{
+    position: relative;
+    width: 400px;
+    top: 30px;
+    left: 200px;
+}
+.IDMascota{
+    position: relative;
+    width: 400px;
+    top: 50px;
+    left: 200px;
+}
+.IDdueño3{
+    width: 400px;
+    position:relative;
+    left: 55%;
+    top: -150px;
+}
+.Image1{
+    position: relative;
+    top: 50px;
+    padding:8px;
+    background-color: black;
+    width: 400px;
+    border: 1px solid #999999;
+}
+.Enviar1 {
+    position: relative;
+    top: 100px;
+    right: 40%;
+
+    color: #fff;
+  
+}
+

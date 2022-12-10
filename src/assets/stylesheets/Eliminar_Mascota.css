@@ -1,0 +1,23 @@
+.Eliminar1{
+    position: relative;
+top: 340px;
+    left: 370px;
+    color: rgb(0, 0, 0);
+    background-color: #f16e00;
+    border-color: #f16e00;
+}
+.IDdueño_Delete{
+    top: 150px;
+    position: relative;
+    width: 400px;
+    left: 600px;
+}
+.GatoEnojao{
+    position: relative;
+    top: 200px;
+    left: 39%;
+    padding:8px;
+    background-color: black;
+    width: 400px;
+    border: 1px solid #febdbd;
+}
